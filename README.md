@@ -25,7 +25,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/Im-Hassan-wd/sponge-s-portfolio/master/img/electron-home.PNG)
+![screenshot]
 
 Gameplay Overview screen
 
