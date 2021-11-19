@@ -16,6 +16,6 @@ public class Driver : MonoBehaviour
 	void Update () 
     {
 		transform.Rotate(0, 0, steerSpeed);
-        transform.Translate(0.1f, 5, 0);
+        transform.Translate(0, 0.01f, 0);
 	}
 }
