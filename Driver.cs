@@ -6,6 +6,7 @@ public class Driver : MonoBehaviour
 {
     // defining speed,
     float steerSpeed = 0.1f;
+	float moveSpeed = 0.01f;
 	// Use this for initialization
 	void Start () 
     {
@@ -16,6 +17,6 @@ public class Driver : MonoBehaviour
 	void Update () 
     {
 		transform.Rotate(0, 0, steerSpeed);
-        transform.Translate(0, 0.01f, 0);
+        transform.Translate(0, moveSpeed, 0);
 	}
 }
