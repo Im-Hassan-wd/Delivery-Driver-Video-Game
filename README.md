@@ -30,7 +30,7 @@ Gameplay Overview screen
 <h4>whose wivws are currentky out of the house</h4>
 <h4>and won't know that the game development instuctors is eatind junk food</h4>
 <h4>when he should be eating roasted kale or some other sort of appropriate for</h4>
-<h4>someone</h4>
+<h4>someone your age "tyoe of snack".</h4>
 
 ### Built With
 
