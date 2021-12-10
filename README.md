@@ -27,7 +27,8 @@ Gameplay Overview screen
 - Player's Car
 
 <h4> You're deliveringtasty donuts to game development instructors</h4>
-<h4>whose wife</h4>
+<h4>whose wivws are currentky out of the house</h4>
+<h4>and won't know that the game development instuctors is eatind junk food</h4>
 
 ### Built With
 
