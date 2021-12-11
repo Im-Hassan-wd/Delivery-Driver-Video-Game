@@ -19,7 +19,6 @@
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
@@ -76,9 +75,3 @@ Complete C# Unity Game Developer 2D [GameDev.tv](https://www.gamedev.tv/p/unity-
 By GameDev.tv Team
 
 Instructors: Rick Davidson, Gary pettie
-
-## Contact
-
-- Website [gallery](https://https://electronphoto.netlify.app/)
-- GitHub [Im-Hassan-wd](https://github.com/Im-Hassan-wd)
-- Twitter [Hassan Weird](https://twitter.com/hassan_weird)
