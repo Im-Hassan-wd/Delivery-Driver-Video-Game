@@ -18,12 +18,13 @@
 
 ![screenshot](https://raw.githubusercontent.com/Im-Hassan-wd/sponge-s-portfolio/master/img/electron-home.PNG)
 
-Game Mechanics We Used
+Gameplay Overview screen
 
-- Driving car forwards and backwards
-- Turning car left and right
-- Increase speed up when drive over "Speed Ups"
-- Decrease Speed when bump into "Slow Downs"
+- Package
+- Obstacles
+- Speed Ups
+- Customer
+- Player's Car
 
 ### Built With
 
@@ -34,13 +35,12 @@ Game Mechanics We Used
 
 ## Features
 
-Gameplay Overview screen
+Game Mechanics We Used
 
-- Package
-- Obstacles
-- Speed Ups
-- Customer
-- Player's Car
+- Driving car forwards and backwards
+- Turning car left and right
+- Increase speed up when drive over "Speed Ups"
+- Decrease Speed when bump into "Slow Downs"
 
 ## Acknowledgements
 
