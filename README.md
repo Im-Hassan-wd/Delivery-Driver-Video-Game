@@ -18,10 +18,10 @@
 
 ![screenshot](https://raw.githubusercontent.com/Im-Hassan-wd/sponge-s-portfolio/master/img/electron-home.PNG)
 
-Browse high-quality free stock images from pexel alongside with there corresponding color.
+Game Mechanics We Used
 
-- You can find my demo in link in [contact section](#contact)
-- I got to work more on my grid experience
+- Driving car forwards and backwards
+- Turning car left and right
 - Creating this page have helped my css grid, grid-rows and grid-column
 - Your wisdom? I control the web with my mind :)
 
@@ -39,6 +39,7 @@ Gameplay Overview screen
 - Package
 - Obstacles
 - Speed Ups
+- Customer
 - Player's Car
 
 ## Acknowledgements
