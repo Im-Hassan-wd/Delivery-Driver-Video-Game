@@ -43,6 +43,13 @@ Game Mechanics We Used
 - Decrease Speed when bump into "Slow Downs"
 - Pick up packages when drive over them
 - Deliver package when drive over delivery spot
+- Change car color to show status
+
+Game Design
+
+- Player experince: Relaxing
+- Core Mechanics: Drive over pickups
+- Game loops: Find and delever all the packages to win
 
 ## Acknowledgements
 
