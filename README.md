@@ -22,8 +22,8 @@ Game Mechanics We Used
 
 - Driving car forwards and backwards
 - Turning car left and right
-- Creating this page have helped my css grid, grid-rows and grid-column
-- Your wisdom? I control the web with my mind :)
+- Increase speed up when drive over "Speed Ups"
+- Decrease Speed when bump into "Slow Downs"
 
 ### Built With
 
