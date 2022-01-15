@@ -34,9 +34,12 @@ Browse high-quality free stock images from pexel alongside with there correspond
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-<!--
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I) was to build an application to complete the given user stories. -->
+Gameplay Overview screen
+
+- Package
+- Obstacles
+- Speed Ups
+- Player's Car
 
 ## Acknowledgements
 
