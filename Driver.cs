@@ -6,7 +6,7 @@ public class Driver : MonoBehaviour
 {
     // defining speed,
     [SerializeField] int steerSpeed = 50;
-	[SerializeField] int moveSpeed = 1f;
+	[SerializeField] int moveSpeed = 1;
 	// Use this for initialization
 	void Start () 
     {
