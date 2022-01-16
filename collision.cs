@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class Collision : MonoBehaviour 
 {
-	void Start () 
-    {
-
+	// Use this for initialization
+	void OnCollisionEnter2D(Collision2D other) {
+		Debug.Log("Ouch!");
 	}
-
-	void Update () 
-    {
-
+	
+	// Update is called once per frame
+	void Update () {
+		
 	}
 }
