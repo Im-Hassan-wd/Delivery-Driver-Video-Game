@@ -12,10 +12,11 @@ public class Delivery : MonoBehaviour
 	void OnTriggerEnter2D(Collider2D other) 
 	{
 		// if it's packagee
-		if (other.tag == "Package") 
+		if (other.tag == "Package" && !hasPackage) 
 		{
 			Debug.Log ("Package picked up");
 			hasPackage = true;
+			Destroy (other.gameObject, destroyDelay);
 		}
 		// if it's Customer
 		if (other.tag == "Customer" && hasPackage) 
