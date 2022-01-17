@@ -9,9 +9,9 @@ public class Delivery : MonoBehaviour
 		Debug.Log("Ouch!");
 	}
 	
-	void OnTriggerEnter2D(Collider2D other) 
+	void OnTriggerEnter2D(Collider2D package) 
 	{
-		if (other.tag == "Package") 
+		if (package.tag == "Package") 
 		{
 			Debug.Log ("Package picked up");
 		}
