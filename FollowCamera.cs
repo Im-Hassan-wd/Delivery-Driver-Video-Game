@@ -7,6 +7,6 @@ public class FollowCamera : MonoBehaviour {
 	// the camera position should be the sa,e as the gameObject (car);
 
 	void Update () {
-		//transform.position = 
+		transform.position = thingToFollow.transform.position + new Vector3 (0,0,-10);
 	}
 }
