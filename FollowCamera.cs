@@ -3,14 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class FollowCamera : MonoBehaviour {
+	[SerializeField] GameObject thingToFollow;
+	// the camera position should be the sa,e as the gameObject (car);
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
 	void Update () {
-		
+		//transform.position = 
 	}
 }
