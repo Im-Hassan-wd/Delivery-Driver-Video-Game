@@ -26,9 +26,9 @@ public class Driver : MonoBehaviour
 
 	void OnTriggerEnter2D(Collider2D other)
 	{
-		if (tag == "Boost") 
+		if (other.tag == "Boost") 
 		{
-			Debug.Log("You are boosting mannnn!");
+			moveSpeed = boostSpeed;
 		}
 	}
 }
