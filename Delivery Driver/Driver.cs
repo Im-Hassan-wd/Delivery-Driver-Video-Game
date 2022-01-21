@@ -23,4 +23,12 @@ public class Driver : MonoBehaviour
 		transform.Rotate(0, 0, -steerAmount);
 		transform.Translate(0, moveAmount, 0);
 	}
+
+	void OnTriggerEnter2D(Collider2D other)
+	{
+		if (tag == "Boost") 
+		{
+			Debug.Log("You are boosting mannnn!");
+		}
+	}
 }
